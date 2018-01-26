@@ -1,7 +1,3 @@
-// CMPT 315 (Winter 2018)
-//
-// Lab 03: PostgreSQL and jmoiron/sql
-// Author: Nicholas Boers
 package main
 
 import (
